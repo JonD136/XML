@@ -1,0 +1,4 @@
+<!ELEMENT results (row*)>
+<!ELEMENT row (name,company)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT company (#PCDATA)  >

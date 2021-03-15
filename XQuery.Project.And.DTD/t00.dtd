@@ -1,0 +1,9 @@
+<!ELEMENT people (person*)>
+<!ELEMENT person (#PCDATA)>
+
+<!ATTLIST person salary CDATA "1">
+<!ATTLIST person gender (female|male) "male">
+
+<!--    
+    java -jar XQuery.jar -xml a00.lastname.firstname.xml -dtd t00.dtd -root people
+-->

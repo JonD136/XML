@@ -1,0 +1,10 @@
+<!ELEMENT results (row*)>
+<!ELEMENT row (name,company,email,location)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT company (#PCDATA)  >
+<!ELEMENT email (#PCDATA)  >
+<!ELEMENT location (#PCDATA)  >
+<!-- the location tag will 
+     contain the name of the state -->
+<!ATTLIST location branch (1|2|3|4) '1' >
+<!ATTLIST location phone  CDATA '' >

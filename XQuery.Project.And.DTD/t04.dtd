@@ -1,0 +1,16 @@
+<!ELEMENT results (row*)>
+<!ELEMENT row (name,company,location,money)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT company (#PCDATA)  >
+<!ELEMENT location (#PCDATA)  >
+<!ELEMENT money (#PCDATA) >
+<!-- the location tag will 
+     contain the name of the state 
+     the money tag is associated with
+     the salary  from 
+     file widget.company.xml
+     
+     -->
+<!ATTLIST location branch (B1|B2|B3|B4) 'B1' >
+<!ATTLIST row type (gold|normal) 'normal' >
+<!ATTLIST row gender (female|male) 'male' >
