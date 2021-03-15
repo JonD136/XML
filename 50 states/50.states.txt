@@ -1,0 +1,209 @@
+<!-- filename: 50.states.xml -->
+<states>
+
+    <state no="1" population="37253956">
+        California
+</state>
+
+    <state no="2" population="25145561">
+        Texas
+</state>
+
+    <state no="3" population="19378102">
+        New York
+    </state>
+
+    <state no="4" population="18801310">
+        Florida
+</state>
+
+    <state no="5" population="12830632">
+        Illinois
+</state>
+
+    <state no="6" population="12702379">
+        Pennsylvania
+    </state>
+
+    <state no="7" population="11536504">
+        Ohio
+</state>
+
+    <state no="8" population="9883640">
+        Michigan
+</state>
+
+    <state no="9" population="9687653">
+        Georgia
+    </state>
+
+    <state no="10" population="9535483">
+        North Carolina
+</state>
+
+    <state no="11" population="8791894">
+        New Jersey
+</state>
+
+    <state no="12" population="8001024">
+        Virginia
+    </state>
+
+    <state no="13" population="6724540">
+        Washington
+</state>
+
+    <state no="14" population="6547629">
+        Massachusetts
+</state>
+
+    <state no="15" population="6483802">
+        Indiana
+    </state>
+
+    <state no="16" population="6392017">
+        Arizona
+</state>
+
+    <state no="17" population="6346105">
+        Tennessee
+</state>
+
+    <state no="18" population="5988927">
+        Missouri
+    </state>
+
+    <state no="19" population="5773552">
+        Maryland
+</state>
+
+    <state no="20" population="5686986">
+        Wisconsin
+</state>
+
+    <state no="21" population="5303925">
+        Minnesota
+    </state>
+
+    <state no="22" population="5029196">
+        Colorado
+</state>
+
+    <state no="23" population="4779736">
+        Alabama
+</state>
+
+    <state no="24" population="4625364">
+        South Carolina 
+    </state>
+
+    <state no="25" population="4533372">
+        Louisiana
+</state>
+
+    <state no="26" population="4339367">
+        Kentucky
+</state>
+
+    <state no="27" population="3831074">
+        Oregon
+    </state>
+
+    <state no="28" population="3751351">
+        Oklahoma
+</state>
+
+    <state no="29" population="3574097">
+        Connecticut
+</state>
+
+    <state no="30" population="3046355">
+        Iowa
+    </state>
+
+    <state no="31" population="2967297">
+        Mississippi
+</state>
+
+    <state no="32" population="2915918">
+        Arkansas
+</state>
+
+    <state no="33" population="2853118">
+        Kansas
+    </state>
+
+    <state no="34" population="2763885">
+        Utah
+</state>
+
+    <state no="35" population="2700551">
+        Nevada
+</state>
+
+    <state no="36" population="2059179">
+        New Mexico
+    </state>
+
+    <state no="37" population="1852994">
+        West Virginia 
+</state>
+
+    <state no="38" population="1826341">
+        Nebraska
+</state>
+
+    <state no="39" population="1567582">
+        Idaho
+    </state>
+
+    <state no="40" population="1360301">
+        Hawaii
+</state>
+
+    <state no="41" population="1328361">
+        Maine
+</state>
+
+    <state no="42" population="1316470">
+        New Hampshire
+    </state>
+
+    <state no="43" population="1052567">
+        Rhode Island
+</state>
+
+    <state no="44" population="989415">
+        Montana
+</state>
+
+    <state no="45" population="897934">
+        Delaware
+    </state>
+
+    <state no="46" population="814180">
+        South Dakota
+</state>
+
+    <state no="47" population="710231">
+        Alaska
+</state>
+
+    <state no="48" population="672591">
+        North Dakota
+    </state>
+
+    <state no="49" population="625741">
+        Vermont
+</state>
+
+    <state no="50" population="601723">
+        Washington, D.C
+</state>
+
+<state no="51" population="563626">
+        Wyoming
+</state>
+
+
+</states>

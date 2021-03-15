@@ -1,0 +1,310 @@
+<!-- filename: 50B.States.xml -->
+
+<states>
+    <state>
+        <rank>1</rank>
+        <name>California</name>
+        <population>37253956</population>
+        </state>
+
+        <state>
+        <rank>2</rank>
+        <name>Texas</name>
+        <population>25145561</population>
+        </state>
+
+        <state>
+        <rank>3</rank>
+        <name>New York</name>
+        <population>19378102</population>
+        </state>
+
+        <state>
+        <rank>4</rank>
+        <name>Florida</name>
+        <population>18801310</population>
+        </state>
+
+        <state>
+        <rank>5</rank>
+        <name>Illinos</name>
+        <population>12830632</population>
+        </state>
+
+        <state>
+        <rank>6</rank>
+        <name>Pennsylvania</name>
+        <population>12702379</population>
+        </state>
+
+        <state>
+        <rank>7</rank>
+        <name>Ohio</name>
+        <population>11536504</population>
+        </state>
+
+        <state>
+        <rank>8</rank>
+        <name>Michigan</name>
+        <population>9883640</population>
+        </state>
+
+        <state>
+        <rank>9</rank>
+        <name>Georgia</name>
+        <population>9687653</population>
+        </state>
+
+        <state>
+        <rank>10</rank>
+        <name>North Carolina</name>
+        <population>9535483</population>
+        </state>
+
+        <state>
+        <rank>11</rank>
+        <name>New Jersey</name>
+        <population>8791894</population>
+        </state>
+
+        <state>
+        <rank>12</rank>
+        <name>Virginia</name>
+        <population>8001024</population>
+        </state>
+
+        <state>
+        <rank>13</rank>
+        <name>Washington</name>
+        <population>6724540</population>
+        </state>
+
+        <state>
+        <rank>14</rank>
+        <name>Massachusetts</name>
+        <population>6547629</population>
+        </state>
+
+        <state>
+        <rank>15</rank>
+        <name>Indiana</name>
+        <population>6483802</population>
+        </state>
+
+        <state>
+        <rank>16</rank>
+        <name>Arizona</name>
+        <population>6392017</population>
+        </state>
+
+        <state>
+        <rank>17</rank>
+        <name>Tennessee</name>
+        <population>6346105</population>
+        </state>
+
+        <state>
+        <rank>18</rank>
+        <name>Missouri</name>
+        <population>5988927</population>
+        </state>
+
+        <state>
+        <rank>19</rank>
+        <name>Maryland</name>
+        <population>5773552</population>
+        </state>
+
+        <state>
+        <rank>20</rank>
+        <name>Wisconsin</name>
+        <population>5686986</population>
+        </state>
+
+        <state>
+        <rank>21</rank>
+        <name>Minnesota</name>
+        <population>5303925</population>
+        </state>
+
+        <state>
+        <rank>22</rank>
+        <name>Colorado</name>
+        <population>5029196</population>
+        </state>
+
+        <state>
+        <rank>23</rank>
+        <name>Alabama</name>
+        <population>4779736</population>
+        </state>
+
+        <state>
+        <rank>24</rank>
+        <name>South Carolina</name>
+        <population>4625364</population>
+        </state>
+
+        <state>
+        <rank>25</rank>
+        <name>Louisiana</name>
+        <population>4533372</population>
+        </state>
+
+        <state>
+        <rank>26</rank>
+        <name>Kentucky</name>
+        <population>4339367</population>
+        </state>
+
+        <state>
+        <rank>27</rank>
+        <name>Oregon</name>
+        <population>3831074</population>
+        </state>
+
+        <state>
+        <rank>28</rank>
+        <name>Oklahoma</name>
+        <population>3751351</population>
+        </state>
+
+        <state>
+        <rank>29</rank>
+        <name>Connecticut</name>
+        <population>3574097</population>
+        </state>
+
+        <state>
+        <rank>30</rank>
+        <name>Iowa</name>
+        <population>3046355</population>
+        </state>
+
+        <state>
+        <rank>31</rank>
+        <name>Mississippi</name>
+        <population>2967297</population>
+        </state>
+
+        <state>
+        <rank>32</rank>
+        <name>Arkansas</name>
+        <population>2915918</population>
+        </state>
+
+        <state>
+        <rank>33</rank>
+        <name>Kansas</name>
+        <population>2853118</population>
+        </state>
+
+        <state>
+        <rank>34</rank>
+        <name>Utah</name>
+        <population>2763885</population>
+        </state>
+
+        <state>
+        <rank>35</rank>
+        <name>Nevada</name>
+        <population>2700551</population>
+        </state>
+
+        <state>
+        <rank>36</rank>
+        <name>New Mexico</name>
+        <population>2059179</population>
+        </state>
+
+        <state>
+        <rank>37</rank>
+        <name>West Virginia</name>
+        <population>1852994</population>
+        </state>
+
+        <state>
+        <rank>38</rank>
+        <name>Nebraska</name>
+        <population>1826341</population>
+        </state>
+
+        <state>
+        <rank>39</rank>
+        <name>Idaho</name>
+        <population>1567582</population>
+        </state>
+
+        <state>
+        <rank>40</rank>
+        <name>Hawaii</name>
+        <population>1360301</population>
+        </state>
+
+        <state>
+        <rank>41</rank>
+        <name>Maine</name>
+        <population>1328361</population>
+        </state>
+
+        <state>
+        <rank>42</rank>
+        <name>New Hampshire</name>
+        <population>1316470</population>
+        </state>
+
+        <state>
+        <rank>43</rank>
+        <name>Rhode Island</name>
+        <population>1052567</population>
+        </state>
+
+        <state>
+        <rank>44</rank>
+        <name>Montana</name>
+        <population>989415</population>
+        </state>
+
+        <state>
+        <rank>45</rank>
+        <name>Delaware</name>
+        <population>897934</population>
+        </state>
+
+        <state>
+        <rank>46</rank>
+        <name>South Dakota</name>
+        <population>814180</population>
+        </state>
+
+        <state>
+        <rank>47</rank>
+        <name>Alaska</name>
+        <population>710231</population>
+        </state>
+
+        <state>
+        <rank>48</rank>
+        <name>North Dakota</name>
+        <population>672591</population>
+        </state>
+
+        <state>
+        <rank>49</rank>
+        <name>Vermont</name>
+        <population>625741</population>
+        </state>
+
+        <state>
+        <rank>50</rank>
+        <name>Washington, D.C.</name>
+        <population>601723</population>
+        </state>
+
+        <state>
+        <rank>51</rank>
+        <name>Wyoming</name>
+        <population>563626</population>
+        </state>
+        
+    </states>
