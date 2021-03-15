@@ -1,0 +1,42 @@
+* {
+    font-family: arial, sans-serif;
+    font-size: 11pt;
+}
+
+h1 {
+    font-size: 200%;
+}
+div.cell {    
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+    float: left;
+    margin-right: 4px;
+    margin-bottom: 4px;
+    width: 345px;
+}
+
+div > img, div.head > img  {
+    width: 10px;
+    height: 10px;
+    padding-right: 7px;
+}
+
+div.head > img.genderColor  {
+    width: 50px;
+    height: 10px;
+    padding-right: 7px;
+    padding-left: 25px;
+}
+
+body {
+    margin-left: .4in;
+}
+
+
+div.blue {
+    color: #dddddd;
+    background-color: #6BBBD6;
+    font-weight: bold;
+    border: 1px dashed black;
+}
